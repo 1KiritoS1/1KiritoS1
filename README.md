@@ -21,3 +21,5 @@ ___
 [![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&?&logo=Steam)](https://steamcommunity.com/id/kirito_s/)
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&?&logo=telegram)](https://t.me/kirito_s1)
 [![TWITTER](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&?&logo=Twitter)](https://twitter.com/of_adora)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1KiritoS1&hide=prs,issues&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
