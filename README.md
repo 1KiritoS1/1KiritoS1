@@ -4,9 +4,9 @@ ____
 
 I specialize in the layout of landings Figma or PSD, as well as the adaptability of the site and its animation.
 
-:white_check_mark: Layout landing pages <br> 
-:white_check_mark: Adaptive layout <br> 
-:white_check_mark: Animation <br> 
+:white_check_mark: **Layout landing pages** <br> 
+:white_check_mark: **Adaptive layout** <br> 
+:white_check_mark: **Animation** <br> 
 
 > ### Languages:
 ____
