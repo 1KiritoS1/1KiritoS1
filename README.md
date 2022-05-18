@@ -1,11 +1,13 @@
 Header
 
 > ### About me: <br> 
-***I'm Junior Web-Developer***
+____
+# **I'm beginner Web Developer**
 
 > ### Languages:
-HTML CSS SCSS JS 
+____
+![HTML](https://img.shields.io/badge/-HTML-f16529?style=for-the-badge&?logo=data:assets/html-badge.png)
 
 > ### Contact me:
+![Instagram](https://img.shields.io/badge/Instagram-<MESSAGE>-<COLOR>)
 
-Footer
