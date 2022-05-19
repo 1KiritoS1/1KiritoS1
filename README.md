@@ -18,7 +18,7 @@ ____
 > ### Contact me:
 ___
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_1drag0n1_/)
-<a href="mailto:romasivachenko@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&?&logo=Gmail)</a>
+<a href="mailto:romasivachenko@gmail.com" title="romasivachenko@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&?&logo=Gmail)</a>
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&?&logo=telegram)](https://t.me/kirito_s1)
 [![TWITTER](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&?&logo=Twitter)](https://twitter.com/of_adora)
 
