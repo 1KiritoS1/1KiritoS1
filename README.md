@@ -18,8 +18,8 @@ ____
 > ### Contact me:
 ___
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram)](https://www.instagram.com/_1drag0n1_/)
-[![Steam](https://img.shields.io/badge/-Steam-000?style=for-the-badge&?&logo=Steam)](https://steamcommunity.com/id/kirito_s/)
+<a href="mailto:romasivachenko@gmail.com">![Gmail](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&?&logo=Gmail)</a>
 [![Telegram](https://img.shields.io/badge/-Telegram-000?style=for-the-badge&?&logo=telegram)](https://t.me/kirito_s1)
 [![TWITTER](https://img.shields.io/badge/-Twitter-000?style=for-the-badge&?&logo=Twitter)](https://twitter.com/of_adora)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1KiritoS1&hide=prs,issues&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=1KiritoS1&hide=prs,issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
