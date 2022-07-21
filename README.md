@@ -1,8 +1,6 @@
-# **I'm beginner Web Developer**
+# **✌️ Hey! I'm a Front-End Developer from Ukraine. ✌️**
 > ### About me:  
 ____
-
-✌️ Hey! I'm a Front-End Developer from Ukraine. ✌️
 I specialize in website layout, adaptation, and also their animation. I have experience in Figma and Photoshop. I haven't had a chance to work on real orders yet, but I've been practicing a lot and am finally ready to start working as a freelancer. I hope you will help me with it. I'm ready to start right now!
 
 🎓Tools:
