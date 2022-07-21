@@ -15,10 +15,6 @@ I specialize in website layout, adaptation, and also their animation. I have exp
 - Figma, PSD to HTML
 - CSS3\JS Animation
 
-:white_check_mark: **Layout landing pages** <br> 
-:white_check_mark: **Adaptive layout** <br> 
-:white_check_mark: **Animation** <br> 
-
 > ### Languages:
 ____
 ![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5&logoColor=e56229)
