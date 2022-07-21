@@ -2,7 +2,20 @@
 > ### About me:  
 ____
 
-I specialize in the layout of landings Figma or PSD, as well as the adaptability of the site and its animation.
+✌️ Hey! I'm a Front-End Developer from Ukraine. ✌️
+I specialize in website layout, adaptation, and also their animation. I have experience in Figma and Photoshop. I haven't had a chance to work on real orders yet, but I've been practicing a lot and am finally ready to start working as a freelancer. I hope you will help me with it. I'm ready to start right now!
+
+🎓Tools:
+- HTML5
+- CSS3, SCSS
+- JavaScript, jQuery
+- Bootstrap, Tailwind
+
+✨Summary:
+- Clear code ( BEM methodology )
+- Responsive website layout
+- Figma, PSD to HTML
+- CSS3\JS Animation
 
 :white_check_mark: **Layout landing pages** <br> 
 :white_check_mark: **Adaptive layout** <br> 
