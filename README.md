@@ -1,7 +1,8 @@
 # **✌️ Hey! I'm a Front-End Developer from Ukraine. ✌️**
-### About me:
+### 💻 About me:
 ____
-I'm a front-end developer who's main passion is creating responsive & pixel-perfect websites and specialize in their animation. Also, I have experience in Figma and Photoshop. 
+I'm a front-end developer who's main passion is creating responsive & pixel-perfect websites and specialize in their animation. <br />
+Also, I have experience in Figma and Photoshop. 
 
 ✨Summary:
 - *Responsive website layout*
