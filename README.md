@@ -4,10 +4,10 @@ ____
 I'm a front-end developer whose main passion is creating responsive & pixel-perfect websites and their animation. <br />
 
 ✨Summary:
-- *Responsive website layout*
-- *Clear code ( BEM methodology )*
-- *Figma / AI / XD / PSD to HTML*
-- *CSS3 / JS Animation*
+- Responsive website layout
+- Clear code ( BEM methodology )
+- Figma / AI / XD / PSD to HTML
+- CSS3 / JS Animation
 
 ### 🧰 Languages and Tools:
 ____
