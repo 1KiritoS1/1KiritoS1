@@ -17,11 +17,11 @@ ____
 <img align="left" alt="SASS" width="36" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
 <img align="left" alt="JavaScript" width="36" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="TypeScript" width="36" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Tailwind CSS" width="36" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind CSS" width="36" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="ReactJS" width="36" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />
 <img align="left" alt="Redux" width="36" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" />
 <img align="left" alt="Figma" width="36" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
-<img align="left" alt="Photoshop" width="36" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Photoshop" width="36" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" />
 
 <br /> <br />
 
