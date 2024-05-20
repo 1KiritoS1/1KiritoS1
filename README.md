@@ -4,11 +4,6 @@ ____
 My name is Roman, and I am focused on creating high-quality, responsive websites and applications. <br />
 I am dedicated to continually improving my skills in JavaScript, along with its frameworks and libraries, to enhance the quality of my work. <br />
 
-✨Summary:
-- Responsive website layout
-- Clear code ( BEM methodology )
-- Figma / AI / XD / PSD to HTML
-
 ### 🧰 Languages and Tools:
 ____
 
